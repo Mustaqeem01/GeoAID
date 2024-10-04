@@ -55,8 +55,5 @@ Download the files and open the file with qgz extention in QGIS. You can upload 
 
 • Faster Response: To ensure aids delivery is at least 30% faster.
 
-Our ultimate goal is to demonstrate that this approach can be used in any flood-affected region worldwide to ensure fair and proper aid distribution.
+• Usage Extension: To apply similar approaches for other natural or manmade disasters.
 
-Our future goals on how to develop the project further:
-1. Use of Real-Time Data from satellites with real-time calculations
-2. To automate the whole process so that manual analysis will be no more needed.

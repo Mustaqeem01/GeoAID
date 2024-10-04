@@ -1,6 +1,6 @@
 # GeoAID: A GIS-Driven Framework for Fair Aid Distribution During Flood
 
-## Demonstrative Working Prototype: 
+## Demonstrative Working Prototype in Website: 
 https://urban-utopians.nextgis.com/resource/52/display?panel=layers
 
 ## Mobile App Prototype:

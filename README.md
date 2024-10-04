@@ -34,7 +34,7 @@ Download the files and open the file with qgz extention in QGIS. You can upload 
 
 ## KPI's
 
-###Technical KPI's:
+### Technical KPI's:
 
 • Completeness and Accessibility of Data: To ensure 100% integration of all collected data and making accessible to all.
 • Automation of Processes: All processes to be automated by backend scripts.
@@ -43,7 +43,7 @@ Download the files and open the file with qgz extention in QGIS. You can upload 
 • Faster processing time: To ensure processing time less than 5 minutes.
 
 
-###Operational KPI's:
+### Operational KPI's:
 
 • Accuracy: To achieve less than 10% deviation from the ground truth data.
 • Aid Coverage: To ensure at least 80% of underserved communities recieved aid. 

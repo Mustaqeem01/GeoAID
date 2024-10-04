@@ -37,16 +37,22 @@ Download the files and open the file with qgz extention in QGIS. You can upload 
 ### Technical KPI's:
 
 • Completeness and Accessibility of Data: To ensure 100% integration of all collected data and making accessible to all.
+
 • Automation of Processes: All processes to be automated by backend scripts.
+
 • Real-time Data Usage: Shifting to real-time data from archived data.
+
 • Web App Usage: All processes will be shifted to a web app.
+
 • Faster processing time: To ensure processing time less than 5 minutes.
 
 
 ### Operational KPI's:
 
 • Accuracy: To achieve less than 10% deviation from the ground truth data.
-• Aid Coverage: To ensure at least 80% of underserved communities recieved aid. 
+
+• Aid Coverage: To ensure at least 80% of underserved communities recieved aid.
+
 • Faster Response: To ensure aids delivery is at least 30% faster.
 
 Our ultimate goal is to demonstrate that this approach can be used in any flood-affected region worldwide to ensure fair and proper aid distribution.

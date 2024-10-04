@@ -17,7 +17,7 @@ Download the files and open the file with qgz extention in QGIS. You can upload 
 3. **Normalize and clean the data** where necessary to ensure consistency and comparability across layers.
 
 ### Step 2: Analyzing and Correlating Data
-1. Develop a **vulnerability index** using weighted analysis using **“The Analytic Hierarchy Process (AHP)” **:
+1. Develop a **vulnerability index** using weighted analysis using “The Analytic Hierarchy Process (AHP)”:
    - Assign weights to each layer (e.g., flood exposure, population density, poverty).
    - Use **QGIS Raster Calculator** or **Python-based** statistical methods to compute vulnerability scores.
 2. **Visualize** the results in QGIS by generating a **vulnerability map**.

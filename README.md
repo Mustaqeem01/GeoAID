@@ -3,7 +3,7 @@
 ## Demonstrative Working Prototype in Website: 
 https://urban-utopians.nextgis.com/resource/52/display?panel=layers
 
-## Mobile App Prototype:
+## Mobile App Prototype (Updated):
 https://github.com/Mustaqeem01/GeoAID/blob/main/GeoAID_1_1.0.apk
 
 ## Documentation:
